@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main_¹éÁØ_2109_¼øÈ¸°­¿¬ {
+public class Main_ë°±ì¤€_2109_ìˆœíšŒê°•ì—° {
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st;
