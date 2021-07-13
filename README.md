@@ -1,1 +1,1 @@
-# SSAFY_STUDY
+# 알고리즘 스터디 SSAFY 5기 서울 10반 4조 
